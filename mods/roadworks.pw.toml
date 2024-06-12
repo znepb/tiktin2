@@ -1,0 +1,13 @@
+name = "Roadworks"
+filename = "roadworks-1.0.0-beta1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kwMwzfzl/versions/h7d8FJxU/roadworks-1.0.0-beta1.jar"
+hash-format = "sha1"
+hash = "8a43d63a6a0b59c549f47f4ef031fd237c2e40bf"
+
+[update]
+[update.modrinth]
+mod-id = "kwMwzfzl"
+version = "h7d8FJxU"
